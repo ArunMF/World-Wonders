@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(0, 255, 255);
+}
+*{
+    font-family: cursive;
+}
+h3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+div{
+    height: 550px;
+    width: 24%;
+    float: left;
+    border: 3px outset black;
+    margin-left: 6px;
+    border-radius: 15px;
+}
+#div1{
+    background-color: cornflowerblue;
+}
+#div2{
+    background-color: rgb(105, 237, 100);
+}
+#div3{
+    background-color: rgb(237, 178, 100);
+}
+#div4{
+    background-color: rgb(237, 100, 230);
+}
+img{
+    height: 170px;
+    width: 180px;
+    margin-top: 15px;
+    border: 2px solid black;
+    border-radius: 100px;
+}
+p{
+    font-size: 14px;
+    padding: 5px;
+}
